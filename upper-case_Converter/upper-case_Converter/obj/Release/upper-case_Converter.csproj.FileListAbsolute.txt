@@ -1,0 +1,8 @@
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\bin\Release\upper-case_Converter.exe.config
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\bin\Release\upper-case_Converter.exe
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\bin\Release\upper-case_Converter.pdb
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\obj\Release\upper-case_Converter.csproj.AssemblyReference.cache
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\obj\Release\upper-case_Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\obj\Release\upper-case_Converter.csproj.CoreCompileInputs.cache
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\obj\Release\upper-case_Converter.exe
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\obj\Release\upper-case_Converter.pdb

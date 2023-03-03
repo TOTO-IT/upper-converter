@@ -1,0 +1,16 @@
+\\toto-2012a\Users\flattuada\upper-case_Converter\upper-case_Converter\bin\Debug\upper-case_Converter.exe.config
+\\toto-2012a\Users\flattuada\upper-case_Converter\upper-case_Converter\bin\Debug\upper-case_Converter.exe
+\\toto-2012a\Users\flattuada\upper-case_Converter\upper-case_Converter\bin\Debug\upper-case_Converter.pdb
+\\toto-2012a\Users\flattuada\upper-case_Converter\upper-case_Converter\obj\Debug\upper-case_Converter.csproj.AssemblyReference.cache
+\\toto-2012a\Users\flattuada\upper-case_Converter\upper-case_Converter\obj\Debug\upper-case_Converter.csproj.SuggestedBindingRedirects.cache
+\\toto-2012a\Users\flattuada\upper-case_Converter\upper-case_Converter\obj\Debug\upper-case_Converter.csproj.CoreCompileInputs.cache
+\\toto-2012a\Users\flattuada\upper-case_Converter\upper-case_Converter\obj\Debug\upper-case_Converter.exe
+\\toto-2012a\Users\flattuada\upper-case_Converter\upper-case_Converter\obj\Debug\upper-case_Converter.pdb
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\bin\Debug\upper-case_Converter.exe.config
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\bin\Debug\upper-case_Converter.exe
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\bin\Debug\upper-case_Converter.pdb
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\obj\Debug\upper-case_Converter.csproj.AssemblyReference.cache
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\obj\Debug\upper-case_Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\obj\Debug\upper-case_Converter.csproj.CoreCompileInputs.cache
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\obj\Debug\upper-case_Converter.exe
+C:\Users\flattuada\Documents\workplace\projects\upper-case_Converter\upper-case_Converter\obj\Debug\upper-case_Converter.pdb
